@@ -1,19 +1,19 @@
-#Run Nodejs
+# Run Nodejs
 > `node main.js`
 
-#Run Golang
+# Run Golang
 > `go build main.go`
 > ./main
 
-#Run PHP
+# Run PHP
 > `php main.php`
 
-#Run Java
+# Run Java
 > `javac Main.java`
 > `java Main`
 
 
-#Hasil Perbandingan perhitungan 22/7/7 sebanyak 1.000.000 kali menggunakan Laptop MacBook Pro 2015 Ram 8Gb
+# Hasil Perbandingan perhitungan 22/7/7 sebanyak 1.000.000 kali menggunakan Laptop MacBook Pro 2015 Ram 8Gb
 
 ------ ##NODEJS v11.2.0 ------ 
 Percobaan 1. 
