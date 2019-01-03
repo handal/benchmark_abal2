@@ -92,4 +92,4 @@ hasil perhihtungan 22/7/7 = 0.4489795918367347
 `Finished at : Thu Dec 20 17:42:44 WIB 2018`
 `Time taken : 31.3230 second`
     
-###Benchmark ini dilakukan hanya untuk memenuhi rasa keingin tahuan sya pribadi, hasil dapat berbeda dilakukan di tempat lain dan menggunakan metode coding yang berbeda
+### Benchmark ini dilakukan hanya untuk memenuhi rasa keingin tahuan sya pribadi, hasil dapat berbeda dilakukan di tempat lain dan menggunakan metode coding yang berbeda
