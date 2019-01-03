@@ -19,9 +19,9 @@
 ------ ##NODEJS v11.2.0 ------ 
 Percobaan 1. 
 hasil perhihtungan 22/7/7 = 0.4489795918367347
-`Start at : 2018-12-20T10:22:31.993Z`
-`Finished at : 2018-12-20T10:23:14.571Z`
-`Time taken : 42.578 second`
+`Start at : 2018-12-20T10:22:31.993Z`\n
+`Finished at : 2018-12-20T10:23:14.571Z`\n
+`Time taken : 42.578 second`<br>
 
 Percobaan 2.
 hasil perhihtungan 22/7/7 = 0.4489795918367347
