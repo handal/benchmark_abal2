@@ -161,4 +161,4 @@ hasil perhihtungan 22/7/7 = 0.4489795918367347
 
 
     
-Benchmark ini dilakukan hanya untuk memenuhi rasa keingintahuan sya pribadi, hasil mungkin dapat berbeda dilakukan di tempat lain dan menggunakan metode coding yang berbeda
+Benchmark ini dilakukan hanya untuk memenuhi rasa keingintahuan sya pribadi, hasil mungkin dapat berbeda  jika dilakukan di tempat lain dan menggunakan metode coding yang berbeda
